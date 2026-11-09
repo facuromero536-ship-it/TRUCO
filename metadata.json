@@ -1,0 +1,8 @@
+{
+  "name": "Remix Truco Argentino AI",
+  "description": "Auténtico juego de Truco Argentino contra IA gaucha con cantos criollos, anotador tradicional de fósforos y cálculo reglamentario de Envido y Truco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
